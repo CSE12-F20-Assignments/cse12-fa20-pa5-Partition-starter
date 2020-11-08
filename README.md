@@ -387,7 +387,7 @@ On the Gradescope assignment **Programming Assignment 5 - code** please submit t
 The easiest way to submit your files is to zip the `pa5-starter` folder and upload that to Gradescope. You may also use the bash script provided, `prepare-submission.sh`.
 You may encounter errors if you submit extra files or directories. You may submit as many times as you like till the deadline. 
 
-## Scoring (50 points total)
+## Scoring (40 points total)
 
 - 10 points: `isValidPartitionResult`, graded automatically
 - 5 points: `generateInput`, graded automatically
